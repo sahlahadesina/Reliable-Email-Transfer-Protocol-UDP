@@ -6,3 +6,4 @@ acknowledgments to prevent packet loss. Clients can send large attachments (up t
 by splitting them into 1 KB packets, and Inbox Synchronization was included to allow clients
 to receive emails even when disconnected, with the server storing and forwarding emails upon
 reconnection.
+![image](https://github.com/user-attachments/assets/07db1565-f898-49f9-be5d-7a1152c5a354)
